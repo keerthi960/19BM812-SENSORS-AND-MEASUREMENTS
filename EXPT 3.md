@@ -32,7 +32,8 @@ i)Resistance-Temperature for RTD
 
 
 # TABULATION
-<img width="1090" height="398" alt="image" src="https://github.com/user-attachments/assets/6f8cf33b-cef7-46f3-9d9b-01c49096f714" />
+<img width="1113" height="1600" alt="image" src="https://github.com/user-attachments/assets/fe798ac3-7b75-4f38-a520-b44f0eb199bc" />
+
 
 
 
@@ -41,6 +42,7 @@ i)Resistance-Temperature for RTD
 
 
 # GRAPH:
+<img width="1208" height="1599" alt="image" src="https://github.com/user-attachments/assets/d9ccaeba-22af-4d1f-aca7-5a55a970d8d3" />
 
 
 # RESULT
